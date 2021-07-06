@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moutyque
-- 👀 I’m interested in product delevellopment for end user where I can see the impact I am making.
-- 🌱 I’m currently learning Kotlin and Android and planing to learn Node & Angular
+- 👀 I’m interested in product deleveloppment for end users where I can see the impact I am making.
+- 🌱 I’m currently learning Kotlin and Android and planing to learn Python, Node & Angular
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me : q.mouty@gmail.com
 
